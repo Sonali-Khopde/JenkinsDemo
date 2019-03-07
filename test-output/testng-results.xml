@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="8674" started-at="2019-03-07T09:56:44Z" finished-at="2019-03-07T09:56:53Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="8674" started-at="2019-03-07T09:56:44Z" finished-at="2019-03-07T09:56:53Z">
+      <class name="mavenProject.GoogleTest">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:mavenProject.GoogleTest@7c16905e]" name="beforeTest" is-config="true" duration-ms="7801" started-at="2019-03-07T15:26:44Z" finished-at="2019-03-07T15:26:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="launchTest()[pri:0, instance:mavenProject.GoogleTest@7c16905e]" name="launchTest" duration-ms="19" started-at="2019-03-07T15:26:52Z" finished-at="2019-03-07T15:26:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:mavenProject.GoogleTest@7c16905e]" name="afterTest" is-config="true" duration-ms="830" started-at="2019-03-07T15:26:52Z" finished-at="2019-03-07T15:26:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- mavenProject.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
